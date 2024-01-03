@@ -1,0 +1,92 @@
+{
+	"BOM": {
+		"FILTER": [
+			{
+				"attr": "Add into BOM",
+				"rule": "no",
+				"checked": true,
+				"isForbidDel": true,
+				"selected": false
+			},
+			{
+				"attr": "Convert to PCB",
+				"rule": "no",
+				"checked": false,
+				"isForbidDel": true,
+				"selected": false
+			}
+		],
+		"ATTR": [
+			{
+				"title": "No.",
+				"value": "Number",
+				"order": 0,
+				"key": 0,
+				"orderWeight": 0
+			},
+			{
+				"title": "Quantity",
+				"value": "Quantity",
+				"order": 0,
+				"key": 0,
+				"orderWeight": 1
+			},
+			{
+				"title": "Comment",
+				"value": "Comment",
+				"order": 0,
+				"key": 1,
+				"orderWeight": 2
+			},
+			{
+				"title": "Designator",
+				"value": "Designator",
+				"order": 1,
+				"key": 2,
+				"orderWeight": 3
+			},
+			{
+				"title": "Footprint",
+				"value": "Footprint",
+				"order": 0,
+				"key": 1,
+				"orderWeight": 4
+			},
+			{
+				"title": "Value",
+				"value": "Value",
+				"order": 0,
+				"key": 1,
+				"orderWeight": 5
+			},
+			{
+				"title": "Manufacturer Part",
+				"value": "Manufacturer Part",
+				"order": 0,
+				"key": 1,
+				"orderWeight": 6
+			},
+			{
+				"title": "Manufacturer",
+				"value": "Manufacturer",
+				"order": 0,
+				"key": 1,
+				"orderWeight": 7
+			},
+			{
+				"title": "Supplier Part",
+				"value": "Supplier Part",
+				"order": 0,
+				"key": 1,
+				"orderWeight": 8
+			},
+			{
+				"title": "Supplier",
+				"value": "Supplier",
+				"order": 0,
+				"key": 1,
+				"orderWeight": 9
+			}
+		]
+	}
+}
