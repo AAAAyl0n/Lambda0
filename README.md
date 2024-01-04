@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts the code for Lambda bot protype and Integrated FOC drive controller, ESP32&stm32 based self-balancing robot, which can switch between bipedal and quadrupedal state, can carry goods in bipedal state in the future.
+This repository hosts the code for Lambda bot **protype** and Integrated FOC drive controller, ESP32&stm32 based self-balancing robot, which can switch between bipedal and quadrupedal state, can carry goods in bipedal state in the future.
 
 ##### 该库包含Lambda机器人原型和一体化FOC驱动控制器的代码，基于esp32和stm32的自平衡机器人，可以在两足和四足状态之间切换，将来可以在两足状态下携带货物。
 ![机器人行走图](https://github.com/AAAAyl0n/Lambda0/blob/main/5.Docs/pic0.jpg)
@@ -20,4 +20,4 @@ This is a picture of my integrated FOC drive controller, this control board util
 ![调试过程图](https://github.com/AHANAyl0n/Lambda0/blob/main/5.Docs/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9B%B4%E7%AB%8B%E8%A1%8C%E8%B5%B0%E5%9B%BE.jpg)
 ![pic](https://github.com/AHANAyl0n/Lambda0/blob/main/5.Docs/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B0%83%E8%AF%95%E5%9B%BE.jpg)
 
-
+In the future, I will develop a lambda concept vehicle based on Jetson Orin Nano and STM32F4, with a front size of approximately 80cm x 80cm. Lambda will possess various capabilities, including autonomy, perception, and execution (cargo handling).
