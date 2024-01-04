@@ -11,7 +11,7 @@ This repository hosts the code for Lambda bot protype and Integrated FOC drive c
 
 This is a picture of my integrated FOC drive controller, this control board utilizes a dual-stack design, with the bottom layer STM32 board responsible for implementing the porting of the SimpleFOC library within the STM32 standard library framework. The top layer ESP32 board is used for running control algorithms, displaying information on the screen, and handling basic communication protocols such as BLE and Wi-Fi.
 
-##### 使用了双主控叠板设计，其中底层stm32板用于实现simpleFOC的stm32标准库框架移植，顶层esp32板用于运行控制算法、屏幕显示以及基础的通信（BLE、Wifi）
+##### 使用了双主控叠板设计，其中底层stm32板用于实现simpleFOC的stm32标准库框架移植，顶层esp32板用于运行控制算法、屏幕显示以及基础的通信（BLE、Wifi）。简易支持两路iic编码器无刷电机以及一个SPI接口屏幕。
 
 ![驱动板](https://github.com/AHANAyl0n/Lambda0/blob/main/5.Docs/%E5%BC%80%E5%8F%91%E6%9D%BF%E5%9B%BE%E7%89%87.jpg)、
 
