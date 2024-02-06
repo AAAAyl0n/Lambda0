@@ -2,6 +2,8 @@
 
 ## Overview
 
+![效果图](https://github.com/AAAAyl0n/Lambda0/blob/main/5.Docs/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+
 This repository hosts the code for Lambda bot **protype** and Integrated FOC drive controller, ESP32&stm32 based self-balancing robot, which can switch between bipedal and quadrupedal state, can carry goods in bipedal state in the future.
 
 ##### 该库包含Lambda机器人原型和一体化FOC驱动控制器的代码，基于esp32和stm32的自平衡机器人，可以在两足和四足状态之间切换，将来可以在两足状态下携带货物。
