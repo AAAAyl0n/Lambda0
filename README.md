@@ -1,4 +1,6 @@
 # Lambda0
+If you don’t understand how this robot works, watch this video.
+👉 https://www.bilibili.com/video/BV1tssDzvEDh/?vd_source=6993c687c4c026d4a88b3e5712b40113
 
 ## Overview
 
